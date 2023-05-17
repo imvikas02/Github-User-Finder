@@ -1,0 +1,22 @@
+
+.form-group{
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+
+.form-control{
+    width:30%;
+    margin-left: 31%;
+    margin-top: 3%;
+    padding: 8px;
+
+}
+.submits{
+    margin-right: 31%;
+    margin-top: -6%;
+    padding: 8px;
+    width: 6%;
+}
